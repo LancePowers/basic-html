@@ -1,0 +1,13 @@
+img{
+  width: 60%;
+  margin-left: 20%;
+}
+h1{
+  font-family: "roboto",sans-serif;
+  font-weight: 200;
+}
+p{
+  text-align: center;
+  color: #FF69B4;
+  font-family: sans-serif;
+}
