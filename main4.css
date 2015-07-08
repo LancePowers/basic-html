@@ -1,0 +1,26 @@
+body{
+  font-family: monospace;
+}
+nav{
+  border: 1px solid black;
+}
+td{
+  padding-left: 10%;
+}
+h1{
+  color: orange;
+  font-weight: lighter;
+}
+input{
+  margin: 1%;
+}
+form{
+margin-left: 2%;
+}
+span{
+  color: purple;
+}
+input[type=submit]{
+  background-color: orange;
+  box-shadow: 5px 5px 2px black;
+}
