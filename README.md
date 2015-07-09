@@ -1,3 +1,7 @@
+[mock1]
+[mock2]
+[mock3]
+[mock4]
 ## Basic HTML
 
 Write the HTML and CSS necessary to match the mockup images. It does not need to be pixel perfect (just eyeball it) but it should be close, with color, font, layout, and spacing properly accounted for. Make sure to create separate HTML and CSS files for each mockup image.
@@ -12,7 +16,7 @@ Boilerplate code:
     <title></title>
    </head>
    <body>
-   
+
    </body>
 </html>
 ```
