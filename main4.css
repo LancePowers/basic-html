@@ -17,10 +17,15 @@ input{
 form{
 margin-left: 2%;
 }
-span{
+.text-purple {
   color: purple;
 }
+
 input[type=submit]{
   background-color: orange;
   box-shadow: 5px 5px 2px black;
+}
+.word{
+  padding: 10%;
+  color: purple;
 }
